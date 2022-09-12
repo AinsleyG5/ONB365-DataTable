@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "lwc-ONB365-DataTable",
+  "name": "lwc-RRA-ATSv2-Custom",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
